@@ -217,10 +217,10 @@ class FormCalculator extends Component {
               ]
             })(
               <Select>
-                <Option value="addition">+ (Addition)</Option>
-                <Option value="subtraction">- (Subtraction)</Option>
-                <Option value="multiplication">* (Multiplication)</Option>
-                <Option value="division">/ (Division)</Option>
+                <Option value="addition">Addition (+)</Option>
+                <Option value="subtraction">Subtraction (-)</Option>
+                <Option value="multiplication">Multiplication (*)</Option>
+                <Option value="division">Division (/)</Option>
               </Select>
             )}
             {getFieldDecorator("secondNumber", {
