@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/number-systems-app/static/css/main.d1b05096.chunk.css",
-    "main.js": "/number-systems-app/static/js/main.df6817a3.chunk.js",
-    "main.js.map": "/number-systems-app/static/js/main.df6817a3.chunk.js.map",
+    "main.js": "/number-systems-app/static/js/main.1f2205ec.chunk.js",
+    "main.js.map": "/number-systems-app/static/js/main.1f2205ec.chunk.js.map",
     "runtime-main.js": "/number-systems-app/static/js/runtime-main.8757eaff.js",
     "runtime-main.js.map": "/number-systems-app/static/js/runtime-main.8757eaff.js.map",
     "static/css/2.1e105a3b.chunk.css": "/number-systems-app/static/css/2.1e105a3b.chunk.css",
     "static/js/2.a26452ae.chunk.js": "/number-systems-app/static/js/2.a26452ae.chunk.js",
     "static/js/2.a26452ae.chunk.js.map": "/number-systems-app/static/js/2.a26452ae.chunk.js.map",
     "index.html": "/number-systems-app/index.html",
-    "precache-manifest.930072f8285bd8daba978fe08c1afde9.js": "/number-systems-app/precache-manifest.930072f8285bd8daba978fe08c1afde9.js",
+    "precache-manifest.471ebc066e5d56ee3319b0c15d36a430.js": "/number-systems-app/precache-manifest.471ebc066e5d56ee3319b0c15d36a430.js",
     "service-worker.js": "/number-systems-app/service-worker.js",
     "static/css/2.1e105a3b.chunk.css.map": "/number-systems-app/static/css/2.1e105a3b.chunk.css.map",
     "static/css/main.d1b05096.chunk.css.map": "/number-systems-app/static/css/main.d1b05096.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.1e105a3b.chunk.css",
     "static/js/2.a26452ae.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.df6817a3.chunk.js"
+    "static/js/main.1f2205ec.chunk.js"
   ]
 }

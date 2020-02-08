@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/number-systems-app/precache-manifest.930072f8285bd8daba978fe08c1afde9.js"
+  "/number-systems-app/precache-manifest.471ebc066e5d56ee3319b0c15d36a430.js"
 );
 
 self.addEventListener('message', (event) => {
